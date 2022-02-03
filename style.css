@@ -1,3 +1,7 @@
+body{
+    background-color: blue;
+}
+
 .naslov{
     text-align: center;
     border: solid;
@@ -51,5 +55,7 @@ Moje
 }
 .col{
     margin: auto;
+    justify-content: space-around;
     text-align: center;
+    
 }
